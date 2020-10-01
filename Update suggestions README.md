@@ -1,10 +1,7 @@
 # Python_MiniProject_SE
 This is a python based project in combination with use of tkinter to depict the working of a Railway Reservation System.  
-this project would be best if ai and ml technoqea must be embedded. for better production
 The visuals output of the code written is present inside the img-01 folder.
-
-The first image sh Move you techs.
-owsows the screen that has login and register options.=
+The first image shows the screen that has login and register options.
 The login button when clicked takes you to the login page wherein after entering proper credentials you can go to next screen.
 If proper credentials are not entered an another screen will give error message.
 The register button when clicked takes you to a new register screen where you register yourself.
